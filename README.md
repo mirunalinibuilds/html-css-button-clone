@@ -124,6 +124,6 @@ It helps others discover the project and motivates me to keep building and shari
 
 ## 👩‍💻 Author
 
-**Mirunalini A. R.**
+**Mirunalini A. R. A**
 
 Computer Science Engineering Student | Learning Web Development One Project at a Time
